@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+
+    <addon id="repository.arcticfuse2custom"
+           name="Arctic Fuse 2 Custom Repo"
+           version="1.0.0"
+           provider-name="nicolos68" />
+
+    <addon id="plugin.program.install.arcticfuse2.custom"
+           name="Installer Arctic Fuse 2 Custom"
+           version="1.0.0"
+           provider-name="nicolos68" />
+
+    <addon id="skin.arctic.fuse.2.custom_pack"
+           name="Arctic Fuse 2 Custom Pack"
+           version="1.0.0"
+           provider-name="nicolos68" />
+
+</addons>
